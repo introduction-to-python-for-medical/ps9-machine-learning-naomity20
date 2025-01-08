@@ -1,2 +1,2 @@
-selected_features: ['DFA', 'PPE']  
-path: "knn_parkinsons_model.joblib"
+selected_features = ['PPE', 'DFA'] 
+path: "svc_model (2).joblib"
